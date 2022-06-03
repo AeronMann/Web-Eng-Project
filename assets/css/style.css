@@ -160,7 +160,8 @@ h1, h2, h3, h4, h5, h6 {
 /* Desktop Navigation */
 .nav-menu {
   margin-top: -750px;
-  margin-left: 57%;
+  margin-left: 25%;
+  
 }
 
 .nav-menu ul {
